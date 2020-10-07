@@ -1,0 +1,17 @@
+import turtle
+kochop = turtle.Turtle()
+def borgo():
+  kochop.forward(100)
+  kochop.right(90)
+  kochop.forward(100)
+  kochop.right(90)
+  kochop.forward(100)
+  kochop.right(90)
+  kochop.forward(100)
+borgo()  
+kochop.forward(100)
+borgo()
+kochop.forward(100)
+borgo()
+kochop.forward(100)
+borgo()
